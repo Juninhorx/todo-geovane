@@ -77,7 +77,7 @@ function App() {
             <Box className="boxTasks">
               <Box className="counterTasks">
                 <Box className="boxCounter">
-                  <Typography variant="h6" color="#7068FF">
+                  <Typography variant="h6" color="#000">
                     Criadas
                   </Typography>
                   <Typography className="counter" fontSize=".8rem">
@@ -85,7 +85,7 @@ function App() {
                   </Typography>
                 </Box>
                 <Box className="boxCounter">
-                  <Typography variant="h6" color="#7068FF">
+                  <Typography variant="h6" color="#000">
                     Concluidas
                   </Typography>
                   <Typography className="counter" fontSize=".8rem">
